@@ -1,0 +1,63 @@
+commit 330de52d762e4aa5d53163ed223898a8212a1f4c
+Author: Hector Corona <hcorona9@calstatela.edu>
+Date:   Thu Feb 5 23:18:50 2026 -0800
+
+    fix
+
+commit 6a88b017c7d6f71de7a7c9aa6c455906b77efbfc
+Merge: 93aa5a0 ea42858
+Author: Hector Corona <hcorona9@calstatela.edu>
+Date:   Thu Feb 5 23:08:53 2026 -0800
+
+    Merge branch 'index-fix'
+
+commit ea42858e7660c7b92716b933f1c6adda488711e2
+Author: Hector Corona <hcorona9@calstatela.edu>
+Date:   Thu Feb 5 23:06:37 2026 -0800
+
+    added my favorite movie
+
+commit 93aa5a05118c5a01ea951b0668463e49a2a313d4
+Author: Hector Corona <hcorona9@calstatela.edu>
+Date:   Thu Feb 5 23:04:52 2026 -0800
+
+    Added my favorite food
+
+commit 785088e81d2b373de8dbfdf0fc83753f95d8fd91
+Merge: 6cdf0ba 7e25136
+Author: Corona <hcorona9@calstatela.edu>
+Date:   Thu Feb 5 22:57:19 2026 -0800
+
+    Merge pull request #1 from hcorona9/info-fill
+    
+    Info fill
+
+commit 6cdf0ba5fe6c8e668acbf169ed398819f69c51e2
+Author: Hector Corona <hcorona9@calstatela.edu>
+Date:   Thu Feb 5 22:42:19 2026 -0800
+
+    Added a README.md file
+
+commit 7e2513677ad33463c9e6f8167408f685062f7ffb
+Author: Hector Corona <hcorona9@calstatela.edu>
+Date:   Thu Feb 5 22:35:15 2026 -0800
+
+    Saved changes
+
+commit ca7b3f7b25afda5ddd60408d3b8e862b9bce95f3
+Author: Hector Corona <hcorona9@calstatela.edu>
+Date:   Thu Feb 5 22:33:32 2026 -0800
+
+    Saved changes
+
+commit 6c847da5a6b3933ba69790112f83c162aa6b7de4
+Author: Hector Corona <hcorona9@calstatela.edu>
+Date:   Thu Feb 5 22:25:38 2026 -0800
+
+    Filled in information within index page
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
